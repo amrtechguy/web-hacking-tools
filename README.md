@@ -1,2 +1,2 @@
 # Web Hacking Tools
-Building Basic Tools For Web Hacking While Learning.
+Building Basic Tools For Ethical Web Hacking While Learning.
